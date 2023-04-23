@@ -1,13 +1,16 @@
 
 [![Solved.acProfile](http://mazassumnida.wtf/api/v2/generate_badge?boj=durumi99)](https://solved.ac/durumi99)
 
+
 <!-- ![Duurmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=durumi99&show_icons=true&theme=radical)
 -->
+[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=durumi99)](https://velog.io/@durumi99) 
+
 <h3>📚 Tech Stack 📚</h3>
 <br>
 <p>
-  <img src="https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white"/></a>&nbsp
+  <img src="https://img.shields.io/badge/C-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white"/></a>&nbsp
   <img src="https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/></a>&nbsp 
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/></a>&nbsp 
@@ -20,3 +23,6 @@
   <img src="https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white"/></a>&nbsp
   <br>
 </p>
+
+
+<h3> 🔍 Activities 🔍  </h3>
