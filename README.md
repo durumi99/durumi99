@@ -5,8 +5,8 @@
 
 <!-- ![Duurmi's GitHub stats](https://github-readme-stats.vercel.app/api?username=durumi99&show_icons=true&theme=radical)
 -->
-[![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=durumi99)](https://velog.io/@durumi99) 
-
+<!-- [![Velog's GitHub stats](https://velog-readme-stats.vercel.app/api/badge?name=durumi99)](https://velog.io/@durumi99) 
+-->
 <h3>📚 Tech Stack 📚</h3>
 <br>
 <p>
